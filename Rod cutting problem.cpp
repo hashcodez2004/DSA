@@ -6,14 +6,14 @@ class Solution {
     int cutRod(vector<int> &price) {
         // code here
         int len = price.size();
-        vector<vector<int>> dp(len, vector<int>(len+1,-0));
+        vector<vector<int>> dp(len, vector<int>(len+1,0));
         for(int i=1;i<=len;i++) dp[0][i] = price[0]*i;
         
         for(int idx=1;idx<len;idx++){
             for(int length=1;length<=len;length++){
                 int notTake = dp[idx-1][length];
                 int take = 0;
-                if(idx+1<=length) take = price[idx] + dp[idx][length-idx-1];
+                if(idx+1<=length) take = price[idx] + dp[idx][length-(idx+1)];
                 dp[idx][length] = max(take,notTake);
             }
         }
