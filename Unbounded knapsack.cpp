@@ -14,7 +14,7 @@ public:
             for(int weight=1;weight<=W;weight++){
                 int notTake = dp[idx-1][weight];
                 int take = 0;
-                if(wt[idx]<=weight) take = val[idx] + dp[idx-1][weight-wt[idx]];
+                if(wt[idx]<=weight) take = val[idx] + dp[idx][weight-wt[idx]];
                 dp[idx][weight] = max(take,notTake);
             }
         }
