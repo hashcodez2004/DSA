@@ -35,6 +35,6 @@ int main() {
 
 
 /*
-Time Complexity: O(n * m)
-Space Complexity: O(n * m)
+Time Complexity: O(2*n)
+Space Complexity: O(n + m)
 */
