@@ -6,9 +6,7 @@ public:
     int knapsack(int W, const vector<int>& wt, const vector<int>& val) {
         int n = wt.size();
         vector<vector<int>> dp(n, vector<int>(W+1,0));
-        for(int i=0;i<=W;i++){
-            if(i>=wt[0]) dp[0][i]=val[0];
-        }
+        for (int i = wt[0]; i <= W; i++) dp[0][i] = val[0];
 
         for(int idx=1;idx<n;idx++){
             for(int weight=1;weight<=W;weight++){
