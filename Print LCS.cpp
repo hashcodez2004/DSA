@@ -22,7 +22,7 @@ public:
 
         int i = size1;
         int j = size2;
-        while(i>0 and j>0){
+        while(i>0 && j>0){
             if(s1[i-1]==s2[j-1]){
                 ans[idx--] = s1[i-1];
                 i--;
