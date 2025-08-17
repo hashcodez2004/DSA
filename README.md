@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/hashcodez2004/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/hashcodez2004/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/hashcodez2004/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hashcodez2004/DSA/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
@@ -32,4 +33,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hashcodez2004/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/hashcodez2004/DSA/tree/master/0169-majority-element) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hashcodez2004/DSA/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hashcodez2004/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hashcodez2004/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
