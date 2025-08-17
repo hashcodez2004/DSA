@@ -1,31 +1,32 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        int n=nums.size();
-        int idx=-1;
-        for(int i=n-2;i>=0;i--){
-            if(nums[i]<nums[i+1]){
-                idx=i;
+        int n = nums.size();
+        int idx = -1;
+
+        // Step 1: Find the first decreasing index from the right
+        for (int i = n-2; i >= 0; i--) {
+            if (nums[i] < nums[i+1]) {
+                idx = i;
                 break;
             }
         }
 
-        if(idx==-1){
-            reverse(nums.begin(),nums.end());
+        // Step 2: If no such index, reverse whole array
+        if (idx == -1) {
+            reverse(nums.begin(), nums.end());
             return;
         }
 
-        int ele=1e9;
-        int justGreater;
-        for(int i=n-1;i>idx;i--){
-            if(nums[idx]<nums[i]){
-                if(nums[i]<ele){
-                    ele=nums[i];
-                    justGreater=i;
-                }
+        // Step 3: Find the rightmost element greater than nums[idx]
+        for (int j = n-1; j > idx; j--) {
+            if (nums[j] > nums[idx]) {
+                swap(nums[idx], nums[j]);
+                break;
             }
         }
-        swap(nums[idx],nums[justGreater]);
-        reverse(nums.begin()+idx+1,nums.end());
+
+        // Step 4: Reverse the suffix
+        reverse(nums.begin() + idx + 1, nums.end());
     }
 };
