@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/hashcodez2004/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/hashcodez2004/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hashcodez2004/DSA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/hashcodez2004/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/hashcodez2004/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0283-move-zeroes) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/hashcodez2004/DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hashcodez2004/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
