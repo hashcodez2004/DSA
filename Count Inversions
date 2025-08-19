@@ -1,0 +1,36 @@
+class Solution {
+  private:
+    void merge(int low, int mid, int high, vector<int>& arr, int& count){
+        vector<int> v;
+        int left=low, right=mid+1;
+        while(left<=mid && right<=high){
+            if(arr[left]>arr[right]){
+                v.push_back(arr[right++]);
+                count+=mid-left+1;
+            }
+            else v.push_back(arr[left++]);
+        }
+        while(left<=mid) v.push_back(arr[left++]);
+        while(right<=high) v.push_back(arr[right++]);
+        
+        int k=0;
+        while(low<=high) arr[low++]=v[k++];
+    }
+  
+    void mergeSort(int low, int high, vector<int>& arr, int& count){
+        if(low>=high) return;
+        int mid = (low + high)/2;
+        mergeSort(low,mid,arr,count);
+        mergeSort(mid+1,high,arr,count);
+        merge(low,mid,high,arr,count);
+    }
+    
+  public:
+    int inversionCount(vector<int> &arr) {
+        // Code Here
+        int n=arr.size();
+        int count=0;
+        mergeSort(0,n-1,arr,count);
+        return count;
+    }
+};
