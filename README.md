@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/hashcodez2004/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hashcodez2004/DSA/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/hashcodez2004/DSA/tree/master/2050-count-good-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -131,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/hashcodez2004/DSA/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/hashcodez2004/DSA/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
