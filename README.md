@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/hashcodez2004/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/hashcodez2004/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hashcodez2004/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/hashcodez2004/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/hashcodez2004/DSA/tree/master/0118-pascals-triangle) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hashcodez2004/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hashcodez2004/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/hashcodez2004/DSA/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/hashcodez2004/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hashcodez2004/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/hashcodez2004/DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/hashcodez2004/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/hashcodez2004/DSA/tree/master/0131-palindrome-partitioning) |
 ## Recursion
 |  |
@@ -154,7 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/hashcodez2004/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hashcodez2004/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/hashcodez2004/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hashcodez2004/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hashcodez2004/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/hashcodez2004/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/hashcodez2004/DSA/tree/master/0216-combination-sum-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/hashcodez2004/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
