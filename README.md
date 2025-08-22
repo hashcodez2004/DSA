@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/hashcodez2004/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/hashcodez2004/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/hashcodez2004/DSA/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/hashcodez2004/DSA/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hashcodez2004/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/hashcodez2004/DSA/tree/master/0493-reverse-pairs) |
@@ -149,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/hashcodez2004/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/hashcodez2004/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hashcodez2004/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/hashcodez2004/DSA/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
