@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/hashcodez2004/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/hashcodez2004/DSA/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/hashcodez2004/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/hashcodez2004/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/hashcodez2004/DSA/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/hashcodez2004/DSA/tree/master/0216-combination-sum-iii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hashcodez2004/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/hashcodez2004/DSA/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/hashcodez2004/DSA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/hashcodez2004/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/hashcodez2004/DSA/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hashcodez2004/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/hashcodez2004/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/hashcodez2004/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/hashcodez2004/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/hashcodez2004/DSA/tree/master/0645-set-mismatch) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/hashcodez2004/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/hashcodez2004/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/hashcodez2004/DSA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/hashcodez2004/DSA/tree/master/0139-word-break) |
 ## Recursion
 |  |
 | ------- |
@@ -175,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hashcodez2004/DSA/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/hashcodez2004/DSA/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/hashcodez2004/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
