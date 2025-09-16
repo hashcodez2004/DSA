@@ -12,7 +12,7 @@ public:
 
             /*while*/ if( (r-l+1) - maxFreq > k){
                 hash[s[l]-'A']-=1;
-                maxFreq=0;
+                // maxFreq=0;
                 // for(int i=0;i<26;i++) maxFreq=max(maxFreq,hash[i]);
                 l++;
             }
