@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/hashcodez2004/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/hashcodez2004/DSA/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/hashcodez2004/DSA/tree/master/0940-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/hashcodez2004/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hashcodez2004/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hashcodez2004/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hashcodez2004/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hashcodez2004/DSA/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/hashcodez2004/DSA/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/hashcodez2004/DSA/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
