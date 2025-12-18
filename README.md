@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/hashcodez2004/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/hashcodez2004/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/hashcodez2004/DSA/tree/master/0645-set-mismatch) |
+| [0713-subarray-product-less-than-k](https://github.com/hashcodez2004/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/hashcodez2004/DSA/tree/master/0940-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/hashcodez2004/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/hashcodez2004/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/hashcodez2004/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/hashcodez2004/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/hashcodez2004/DSA/tree/master/0493-reverse-pairs) |
+| [0713-subarray-product-less-than-k](https://github.com/hashcodez2004/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/hashcodez2004/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Indexed Tree
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hashcodez2004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/hashcodez2004/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0713-subarray-product-less-than-k](https://github.com/hashcodez2004/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/hashcodez2004/DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/hashcodez2004/DSA/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
