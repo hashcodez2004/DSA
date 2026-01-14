@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hashcodez2004/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/hashcodez2004/DSA/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hashcodez2004/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hashcodez2004/DSA/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/hashcodez2004/DSA/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hashcodez2004/DSA/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/hashcodez2004/DSA/tree/master/0844-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hashcodez2004/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/hashcodez2004/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/hashcodez2004/DSA/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/hashcodez2004/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0844-backspace-string-compare](https://github.com/hashcodez2004/DSA/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
