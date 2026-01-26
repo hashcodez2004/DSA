@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hashcodez2004/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/hashcodez2004/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/hashcodez2004/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0283-move-zeroes) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hashcodez2004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/hashcodez2004/DSA/tree/master/0844-backspace-string-compare) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/hashcodez2004/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/hashcodez2004/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/hashcodez2004/DSA/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/hashcodez2004/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/hashcodez2004/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/hashcodez2004/DSA/tree/master/0645-set-mismatch) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/hashcodez2004/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hashcodez2004/DSA/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/hashcodez2004/DSA/tree/master/0202-happy-number) |
 | [2050-count-good-numbers](https://github.com/hashcodez2004/DSA/tree/master/2050-count-good-numbers) |
 ## Prefix Sum
 |  |
