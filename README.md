@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hashcodez2004/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/hashcodez2004/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/hashcodez2004/DSA/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/hashcodez2004/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0283-move-zeroes) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hashcodez2004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hashcodez2004/DSA/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/hashcodez2004/DSA/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hashcodez2004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/hashcodez2004/DSA/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/hashcodez2004/DSA/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/hashcodez2004/DSA/tree/master/0143-reorder-list) |
 | [2050-count-good-numbers](https://github.com/hashcodez2004/DSA/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/hashcodez2004/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/hashcodez2004/DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/hashcodez2004/DSA/tree/master/1046-max-consecutive-ones-iii) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/hashcodez2004/DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
