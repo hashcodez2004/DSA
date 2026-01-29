@@ -10,34 +10,55 @@ private:
 public:
     bool circularArrayLoop(vector<int>& nums) {
         int n=nums.size();
-        for(int i=0;i<n;i++){
-            unordered_set<int> st;
-            st.insert(i);
-            bool isPos=nums[i]>0;
-            int currIdx=i;
+        for(int i = 0; i < n; i++){
+            if(nums[i] == 0) continue;
+
+            bool isPos = nums[i] > 0;
+            int slow = i;
+            int fast = i;
 
             while(true){
-                int nextIdx=findNextIndex(nums,currIdx);
-                if(isPos){
-                    if(nums[nextIdx]<0) break;
-                    else{
-                        if(st.find(nextIdx)!=st.end()){
-                            if(currIdx!=nextIdx) return true;
-                            else break;
-                        }
-                    }
+                // move slow once
+                int slowNext = findNextIndex(nums, slow);
+                if(slowNext == slow) break;                 // self-loop
+                if(isPos && nums[slowNext] < 0) break;     // direction change
+                if(!isPos && nums[slowNext] > 0) break;
+
+                // move fast once
+                int fastNext = findNextIndex(nums, fast);
+                if(fastNext == fast) break;
+                if(isPos && nums[fastNext] < 0) break;
+                if(!isPos && nums[fastNext] > 0) break;
+
+                // move fast second time
+                int fastNext2 = findNextIndex(nums, fastNext);
+                if(fastNext2 == fastNext) break;
+                if(isPos && nums[fastNext2] < 0) break;
+                if(!isPos && nums[fastNext2] > 0) break;
+
+                slow = slowNext;
+                fast = fastNext2;
+
+                if(slow == fast) return true;
+            }
+
+            //ab tkk koi cycle nhi mila => so is path me vha tkk k nodes jha
+            //loop break me gyi hogi unhe 0 mark krdo
+            // mark visited path
+            int curr = i;
+            if(isPos){
+                while(nums[curr] > 0){
+                    int next = findNextIndex(nums, curr);
+                    nums[curr] = 0;
+                    curr = next;
                 }
-                else{
-                    if(nums[nextIdx]>0) break;
-                    else{
-                        if(st.find(nextIdx)!=st.end()){
-                            if(currIdx!=nextIdx) return true;
-                            else break;
-                        }
-                    }
+            }
+            else{
+                while(nums[curr] < 0){
+                    int next = findNextIndex(nums, curr);
+                    nums[curr] = 0;
+                    curr = next;
                 }
-                st.insert(nextIdx);
-                currIdx=nextIdx;
             }
         }
         return false;
