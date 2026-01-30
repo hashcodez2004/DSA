@@ -6,16 +6,7 @@ public:
         int len=0;
         int i=0, j=0;
         while(j<n){
-            if(mpp.find(s[j])==mpp.end()){
-                mpp[s[j]]=j;
-            }
-            else{
-                if(mpp[s[j]]<i) mpp[s[j]]=j;
-                else{
-                    i=mpp[s[j]]+1;
-                    mpp[s[j]]=j;
-                }
-            }
+            if(mpp.find(s[j])!=mpp.end() && mpp[s[j]]>=i) i=mpp[s[j]]+1;
             mpp[s[j]]=j;
             len=max(len,j-i+1);
             j++;
