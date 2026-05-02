@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hashcodez2004/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hashcodez2004/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/hashcodez2004/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/hashcodez2004/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/hashcodez2004/DSA/tree/master/0031-next-permutation) |
@@ -24,29 +25,46 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/hashcodez2004/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/hashcodez2004/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/hashcodez2004/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/hashcodez2004/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/hashcodez2004/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/hashcodez2004/DSA/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/hashcodez2004/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/hashcodez2004/DSA/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/hashcodez2004/DSA/tree/master/0414-third-maximum-number) |
+| [0457-circular-array-loop](https://github.com/hashcodez2004/DSA/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/hashcodez2004/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/hashcodez2004/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/hashcodez2004/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/hashcodez2004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/hashcodez2004/DSA/tree/master/0645-set-mismatch) |
+| [0713-subarray-product-less-than-k](https://github.com/hashcodez2004/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/hashcodez2004/DSA/tree/master/0904-fruit-into-baskets) |
+| [0940-fruit-into-baskets](https://github.com/hashcodez2004/DSA/tree/master/0940-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/hashcodez2004/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hashcodez2004/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hashcodez2004/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hashcodez2004/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/hashcodez2004/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/hashcodez2004/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/hashcodez2004/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/hashcodez2004/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/hashcodez2004/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/hashcodez2004/DSA/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/hashcodez2004/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0283-move-zeroes) |
+| [0457-circular-array-loop](https://github.com/hashcodez2004/DSA/tree/master/0457-circular-array-loop) |
+| [0567-permutation-in-string](https://github.com/hashcodez2004/DSA/tree/master/0567-permutation-in-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/hashcodez2004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/hashcodez2004/DSA/tree/master/0844-backspace-string-compare) |
+| [0977-squares-of-a-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hashcodez2004/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -55,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hashcodez2004/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hashcodez2004/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/hashcodez2004/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/hashcodez2004/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hashcodez2004/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/hashcodez2004/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/hashcodez2004/DSA/tree/master/0139-word-break) |
@@ -63,30 +82,47 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hashcodez2004/DSA/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/hashcodez2004/DSA/tree/master/0143-reorder-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/hashcodez2004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/hashcodez2004/DSA/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hashcodez2004/DSA/tree/master/0042-trapping-rain-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/hashcodez2004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hashcodez2004/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/hashcodez2004/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/hashcodez2004/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/hashcodez2004/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/hashcodez2004/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/hashcodez2004/DSA/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/hashcodez2004/DSA/tree/master/0414-third-maximum-number) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/hashcodez2004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/hashcodez2004/DSA/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hashcodez2004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hashcodez2004/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/hashcodez2004/DSA/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/hashcodez2004/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/hashcodez2004/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/hashcodez2004/DSA/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/hashcodez2004/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/hashcodez2004/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/hashcodez2004/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0457-circular-array-loop](https://github.com/hashcodez2004/DSA/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/hashcodez2004/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/hashcodez2004/DSA/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/hashcodez2004/DSA/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/hashcodez2004/DSA/tree/master/0904-fruit-into-baskets) |
+| [0940-fruit-into-baskets](https://github.com/hashcodez2004/DSA/tree/master/0940-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hashcodez2004/DSA/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/hashcodez2004/DSA/tree/master/0844-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hashcodez2004/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -114,11 +151,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/hashcodez2004/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hashcodez2004/DSA/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/hashcodez2004/DSA/tree/master/0202-happy-number) |
 | [2050-count-good-numbers](https://github.com/hashcodez2004/DSA/tree/master/2050-count-good-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hashcodez2004/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/hashcodez2004/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/hashcodez2004/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/hashcodez2004/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -128,7 +169,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hashcodez2004/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/hashcodez2004/DSA/tree/master/0493-reverse-pairs) |
+| [0713-subarray-product-less-than-k](https://github.com/hashcodez2004/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/hashcodez2004/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -148,16 +192,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hashcodez2004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/hashcodez2004/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hashcodez2004/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/hashcodez2004/DSA/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/hashcodez2004/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/hashcodez2004/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/hashcodez2004/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/hashcodez2004/DSA/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/hashcodez2004/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/hashcodez2004/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/hashcodez2004/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/hashcodez2004/DSA/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/hashcodez2004/DSA/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/hashcodez2004/DSA/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/hashcodez2004/DSA/tree/master/0143-reorder-list) |
 | [2050-count-good-numbers](https://github.com/hashcodez2004/DSA/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
@@ -184,10 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hashcodez2004/DSA/tree/master/0011-container-with-most-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/hashcodez2004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/hashcodez2004/DSA/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/hashcodez2004/DSA/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -213,4 +267,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hashcodez2004/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hashcodez2004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/hashcodez2004/DSA/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/hashcodez2004/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/hashcodez2004/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/hashcodez2004/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/hashcodez2004/DSA/tree/master/0567-permutation-in-string) |
+| [0713-subarray-product-less-than-k](https://github.com/hashcodez2004/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/hashcodez2004/DSA/tree/master/0904-fruit-into-baskets) |
+| [0940-fruit-into-baskets](https://github.com/hashcodez2004/DSA/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/hashcodez2004/DSA/tree/master/1046-max-consecutive-ones-iii) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/hashcodez2004/DSA/tree/master/0143-reorder-list) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/hashcodez2004/DSA/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->

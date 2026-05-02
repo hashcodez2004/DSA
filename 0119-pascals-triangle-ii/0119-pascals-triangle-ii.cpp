@@ -1,6 +1,7 @@
 class Solution {
-private:
+public:
     vector<int> getRow(int row) {
+        row=row+1; //did this because of 0 indexed row
         vector<int> ans;
         ans.push_back(1);
         long long temp=1;
@@ -9,15 +10,6 @@ private:
             temp=temp/col;
             ans.push_back(temp);
         }
-        return ans;
-    }
-
-public:
-    vector<vector<int>> generate(int numRows) {
-        vector<vector<int>> ans;
-        for(int i=1;i<=numRows;i++){
-            ans.push_back(getRow(i));
-        }    
         return ans;
     }
 };
