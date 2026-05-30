@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/hashcodez2004/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/hashcodez2004/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/hashcodez2004/DSA/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/hashcodez2004/DSA/tree/master/0493-reverse-pairs) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/hashcodez2004/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/hashcodez2004/DSA/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -290,9 +292,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/hashcodez2004/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0143-reorder-list](https://github.com/hashcodez2004/DSA/tree/master/0143-reorder-list) |
 ## Design
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/hashcodez2004/DSA/tree/master/0208-implement-trie-prefix-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/hashcodez2004/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
