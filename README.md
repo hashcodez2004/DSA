@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hashcodez2004/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/hashcodez2004/DSA/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hashcodez2004/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hashcodez2004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/hashcodez2004/DSA/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hashcodez2004/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hashcodez2004/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hashcodez2004/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Greedy
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hashcodez2004/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hashcodez2004/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hashcodez2004/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hashcodez2004/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hashcodez2004/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hashcodez2004/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Sliding Window
