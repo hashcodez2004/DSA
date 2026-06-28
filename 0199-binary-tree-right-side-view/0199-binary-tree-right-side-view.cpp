@@ -11,12 +11,16 @@
  */
 class Solution {
 public:
-    int maxDepth(TreeNode* root) {
-        if(root == NULL) return 0;
+    vector<int> rightSideView(TreeNode* root) {
+        vector<int> view;
+        traversal(root,0,view);
+        return view;
+    }
 
-        int lh = maxDepth(root->left);
-        int rh = maxDepth(root->right);
-
-        return 1 + max(lh,rh);
+    void traversal(TreeNode* root, int level, vector<int> &view){
+        if(root==NULL) return;
+        if(level==view.size()) view.push_back(root->val);
+        traversal(root->right,level+1,view);
+        traversal(root->left,level+1,view);
     }
 };
