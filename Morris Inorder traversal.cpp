@@ -23,7 +23,7 @@ class Solution {
                 }
                 //Left subtree already traversed
                 else{
-                    temp->right==NULL;
+                    temp->right=NULL;
                     ans.push_back(curr->data);
                     curr=curr->right;
                 }
