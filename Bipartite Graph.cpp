@@ -1,3 +1,4 @@
+//                                  BFS
 class Solution {
 private:
     bool bfs(int i, vector<vector<int>>& graph, vector<int>& color){
@@ -34,6 +35,50 @@ public:
                 if(!bfs(i,graph,color)) return false;
         }
 
+        return true;
+    }
+};
+
+
+
+//                                DFS
+class Solution {
+  public:
+    bool dfs(int node, vector<int> &col, vector<vector<int>> &adj){
+        int color=col[node];
+        
+        for(auto &it: adj[node]){
+            if(col[it]==-1){
+                col[it]=!color;
+                if(dfs(it,col,adj)==false) return false;
+            }
+            else if(col[it]==color) return false;
+        }
+        
+        return true;
+    }
+  
+    bool isBipartite(int V, vector<vector<int>> &edges) {
+        // Code here
+        vector<vector<int>> adj(V);
+        for(auto &it: edges){
+            int u=it[0];
+            int v=it[1];
+            adj[u].push_back(v);
+            adj[v].push_back(u);
+        }
+        
+        //color array => -1(nothing), 1(R), 0(G)
+        vector<int> col(V,-1);
+        
+        //checking all components
+        for(int i=0;i<V;i++){
+            if(col[i]==-1){
+                col[i]=0;
+                if(dfs(i,col,adj)==false) return false;
+            }
+        }
+        
         return true;
     }
 };
