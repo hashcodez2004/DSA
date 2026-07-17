@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hashcodez2004/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-max-consecutive-ones-iii](https://github.com/hashcodez2004/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/hashcodez2004/DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [2050-parallel-courses-iii](https://github.com/hashcodez2004/DSA/tree/master/2050-parallel-courses-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hashcodez2004/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/hashcodez2004/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/hashcodez2004/DSA/tree/master/0152-maximum-product-subarray) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2050-parallel-courses-iii](https://github.com/hashcodez2004/DSA/tree/master/2050-parallel-courses-iii) |
 ## Stack
 |  |
 | ------- |
@@ -387,8 +389,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/hashcodez2004/DSA/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/hashcodez2004/DSA/tree/master/0684-redundant-connection) |
+| [2050-parallel-courses-iii](https://github.com/hashcodez2004/DSA/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/hashcodez2004/DSA/tree/master/0210-course-schedule-ii) |
+| [2050-parallel-courses-iii](https://github.com/hashcodez2004/DSA/tree/master/2050-parallel-courses-iii) |
 <!---LeetCode Topics End-->
