@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/hashcodez2004/DSA/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/hashcodez2004/DSA/tree/master/0743-network-delay-time) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Greedy
 |  |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/hashcodez2004/DSA/tree/master/0210-course-schedule-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/hashcodez2004/DSA/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/hashcodez2004/DSA/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hashcodez2004/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/hashcodez2004/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0743-network-delay-time](https://github.com/hashcodez2004/DSA/tree/master/0743-network-delay-time) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -391,10 +394,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/hashcodez2004/DSA/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/hashcodez2004/DSA/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/hashcodez2004/DSA/tree/master/0743-network-delay-time) |
 | [2050-parallel-courses-iii](https://github.com/hashcodez2004/DSA/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/hashcodez2004/DSA/tree/master/0210-course-schedule-ii) |
 | [2050-parallel-courses-iii](https://github.com/hashcodez2004/DSA/tree/master/2050-parallel-courses-iii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/hashcodez2004/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
