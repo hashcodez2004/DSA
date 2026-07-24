@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hashcodez2004/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-max-consecutive-ones-iii](https://github.com/hashcodez2004/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/hashcodez2004/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/hashcodez2004/DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2050-parallel-courses-iii](https://github.com/hashcodez2004/DSA/tree/master/2050-parallel-courses-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hashcodez2004/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/hashcodez2004/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/hashcodez2004/DSA/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/hashcodez2004/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/hashcodez2004/DSA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/hashcodez2004/DSA/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/hashcodez2004/DSA/tree/master/0940-fruit-into-baskets) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/hashcodez2004/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/hashcodez2004/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/hashcodez2004/DSA/tree/master/0743-network-delay-time) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/hashcodez2004/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 ## Binary Tree
 |  |
 | ------- |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/hashcodez2004/DSA/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/hashcodez2004/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/hashcodez2004/DSA/tree/master/0743-network-delay-time) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/hashcodez2004/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [2050-parallel-courses-iii](https://github.com/hashcodez2004/DSA/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
 |  |
