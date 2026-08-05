@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/hashcodez2004/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/hashcodez2004/DSA/tree/master/0743-network-delay-time) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/hashcodez2004/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/hashcodez2004/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Greedy
 |  |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/hashcodez2004/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/hashcodez2004/DSA/tree/master/0743-network-delay-time) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/hashcodez2004/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/hashcodez2004/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/hashcodez2004/DSA/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/hashcodez2004/DSA/tree/master/0684-redundant-connection) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/hashcodez2004/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/hashcodez2004/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hashcodez2004/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/hashcodez2004/DSA/tree/master/0743-network-delay-time) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/hashcodez2004/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/hashcodez2004/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/hashcodez2004/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hashcodez2004/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [2050-parallel-courses-iii](https://github.com/hashcodez2004/DSA/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
