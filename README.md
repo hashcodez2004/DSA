@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/hashcodez2004/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/hashcodez2004/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/hashcodez2004/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/hashcodez2004/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/hashcodez2004/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/hashcodez2004/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hashcodez2004/DSA/tree/master/0054-spiral-matrix) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hashcodez2004/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/hashcodez2004/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/hashcodez2004/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/hashcodez2004/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/hashcodez2004/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/hashcodez2004/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0088-merge-sorted-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hashcodez2004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hashcodez2004/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/hashcodez2004/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/hashcodez2004/DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hashcodez2004/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/hashcodez2004/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hashcodez2004/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/hashcodez2004/DSA/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/hashcodez2004/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/hashcodez2004/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/hashcodez2004/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/hashcodez2004/DSA/tree/master/0131-palindrome-partitioning) |
