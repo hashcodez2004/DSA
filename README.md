@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/hashcodez2004/DSA/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/hashcodez2004/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/hashcodez2004/DSA/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/hashcodez2004/DSA/tree/master/0778-swim-in-rising-water) |
 | [0904-fruit-into-baskets](https://github.com/hashcodez2004/DSA/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/hashcodez2004/DSA/tree/master/0940-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/hashcodez2004/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/hashcodez2004/DSA/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/hashcodez2004/DSA/tree/master/0778-swim-in-rising-water) |
 ## Math
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/hashcodez2004/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/hashcodez2004/DSA/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/hashcodez2004/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0778-swim-in-rising-water](https://github.com/hashcodez2004/DSA/tree/master/0778-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/hashcodez2004/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Indexed Tree
 |  |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/hashcodez2004/DSA/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/hashcodez2004/DSA/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/hashcodez2004/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/hashcodez2004/DSA/tree/master/0778-swim-in-rising-water) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/hashcodez2004/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/hashcodez2004/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/hashcodez2004/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/hashcodez2004/DSA/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/hashcodez2004/DSA/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/hashcodez2004/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/hashcodez2004/DSA/tree/master/0778-swim-in-rising-water) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/hashcodez2004/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/hashcodez2004/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
@@ -402,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/hashcodez2004/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/hashcodez2004/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0743-network-delay-time](https://github.com/hashcodez2004/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/hashcodez2004/DSA/tree/master/0778-swim-in-rising-water) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -418,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/hashcodez2004/DSA/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/hashcodez2004/DSA/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/hashcodez2004/DSA/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/hashcodez2004/DSA/tree/master/0778-swim-in-rising-water) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/hashcodez2004/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/hashcodez2004/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/hashcodez2004/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -482,4 +489,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/hashcodez2004/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/hashcodez2004/DSA/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/hashcodez2004/DSA/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
