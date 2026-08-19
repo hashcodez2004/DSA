@@ -497,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/hashcodez2004/DSA/tree/master/0778-swim-in-rising-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/hashcodez2004/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
