@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/hashcodez2004/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hashcodez2004/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hashcodez2004/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/hashcodez2004/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/hashcodez2004/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/hashcodez2004/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hashcodez2004/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/hashcodez2004/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hashcodez2004/DSA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/hashcodez2004/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/hashcodez2004/DSA/tree/master/0202-happy-number) |
 | [1922-count-good-numbers](https://github.com/hashcodez2004/DSA/tree/master/1922-count-good-numbers) |
 | [2050-count-good-numbers](https://github.com/hashcodez2004/DSA/tree/master/2050-count-good-numbers) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hashcodez2004/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/hashcodez2004/DSA/tree/master/0139-word-break) |
 ## Tree
 |  |
