@@ -120,3 +120,33 @@ public:
         return dp[n];
     }
 };
+
+
+// ============================================================
+// Approach 4: Space Optimization
+// TC: O(n)
+// SC: O(1)
+// ============================================================
+
+class Solution {
+public:
+    int climbStairs(int n, vector<int>& costs) {
+        int prev=0, prev1=0, prev2=0;
+        for(int idx=1; idx<n+1; idx++){
+            int one = prev + costs[idx-1] + 1;
+
+            int two = 1e9;
+            if(idx > 1) two = prev1 + costs[idx-1] + 4;
+
+            int three = 1e9;
+            if(idx > 2) three = prev2 + costs[idx-1] + 9;
+
+            int curr = min({one,two,three});
+
+            prev2=prev1;
+            prev1=prev;
+            prev=curr;
+        }
+        return prev;
+    }
+};
