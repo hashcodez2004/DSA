@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hashcodez2004/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/hashcodez2004/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/hashcodez2004/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/hashcodez2004/DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/hashcodez2004/DSA/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/hashcodez2004/DSA/tree/master/0283-move-zeroes) |
 | [0332-reconstruct-itinerary](https://github.com/hashcodez2004/DSA/tree/master/0332-reconstruct-itinerary) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/hashcodez2004/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/hashcodez2004/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/hashcodez2004/DSA/tree/master/0152-maximum-product-subarray) |
+| [0213-house-robber-ii](https://github.com/hashcodez2004/DSA/tree/master/0213-house-robber-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2050-parallel-courses-iii](https://github.com/hashcodez2004/DSA/tree/master/2050-parallel-courses-iii) |
 ## Stack
