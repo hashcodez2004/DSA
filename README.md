@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/hashcodez2004/DSA/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/hashcodez2004/DSA/tree/master/0778-swim-in-rising-water) |
 | [0904-fruit-into-baskets](https://github.com/hashcodez2004/DSA/tree/master/0904-fruit-into-baskets) |
+| [0931-minimum-falling-path-sum](https://github.com/hashcodez2004/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0940-fruit-into-baskets](https://github.com/hashcodez2004/DSA/tree/master/0940-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/hashcodez2004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hashcodez2004/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/hashcodez2004/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/hashcodez2004/DSA/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/hashcodez2004/DSA/tree/master/0213-house-robber-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/hashcodez2004/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/hashcodez2004/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2050-parallel-courses-iii](https://github.com/hashcodez2004/DSA/tree/master/2050-parallel-courses-iii) |
 ## Stack
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/hashcodez2004/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/hashcodez2004/DSA/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/hashcodez2004/DSA/tree/master/0778-swim-in-rising-water) |
+| [0931-minimum-falling-path-sum](https://github.com/hashcodez2004/DSA/tree/master/0931-minimum-falling-path-sum) |
 ## Math
 |  |
 | ------- |
