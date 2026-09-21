@@ -1,18 +1,4 @@
 class Solution {
-private:
-    bool helper(int idx, int target, vector<int>& nums, vector<vector<int>> &dp){
-        if(idx<0) return target==0;
-
-        if(dp[idx][target] != -1) return dp[idx][target];
-
-        bool take = false;
-        if(nums[idx]<=target) take = helper(idx-1,target-nums[idx],nums,dp);
-
-        bool notTake = helper(idx-1,target,nums,dp);
-
-        return dp[idx][target] = take || notTake;
-    }
-
 public:
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
@@ -22,8 +8,26 @@ public:
 
         if(target%2 == 1) return false;
 
-        vector<vector<int>> dp(n, vector<int>(target/2+1, -1));
+        vector<int> prev(target/2 + 1, 0);
+        prev[0] = 1;
+        if(nums[0] <= target/2) prev[nums[0]] = 1;
 
-        return helper(n-1,target/2,nums,dp);
+        for(int idx=1; idx<n; idx++){
+
+            vector<int> curr(target/2 + 1, 0);
+            for(int tar=0; tar<=target/2; tar++){
+
+                bool take = false;
+                if(nums[idx]<=tar) take = prev[tar-nums[idx]];
+
+                bool notTake = prev[tar];
+
+                curr[tar] = take || notTake;
+            }
+
+            prev = curr;
+        }
+
+        return prev[target/2];
     }
 };
