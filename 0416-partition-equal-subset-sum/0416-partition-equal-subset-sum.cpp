@@ -22,7 +22,7 @@ public:
 
         if(target%2 == 1) return false;
 
-        vector<vector<int>> dp(n, vector<int>(target+1, -1));
+        vector<vector<int>> dp(n, vector<int>(target/2+1, -1));
 
         return helper(n-1,target/2,nums,dp);
     }
